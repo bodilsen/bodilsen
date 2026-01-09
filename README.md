@@ -1,5 +1,6 @@
-## Hi there 👋
+# About me
 
+Econometrician and quantitative analyst. PhD in Economics from Aarhus University with research interests in predictive modeling, causal inference, and financial econometrics. 
 <!--
 **bodilsen/bodilsen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
